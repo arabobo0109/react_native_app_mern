@@ -13,6 +13,7 @@ npm run start
 ```
 to run the project
 
+Demo of the app : https://youtu.be/xT8OqL0NC9I
 
 ![Product details](https://user-images.githubusercontent.com/58248543/150894211-1cfa3bc1-0e36-4747-86a3-369824645447.png){:height="700px" width="400px"}
 ![Logout](https://user-images.githubusercontent.com/58248543/150894219-a427cbe0-bbd5-4905-aa4d-943e209b2b09.png)
