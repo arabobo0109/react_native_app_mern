@@ -1,0 +1,33 @@
+[
+  {
+    "name": "fruits & Vegetables",
+    "image": "https://cdn-icons.flaticon.com/png/512/3362/premium/3362707.png?token=exp=1638708447~hmac=a696d5481b683f61f8feac614d80129f",
+    "__v": 0
+  },
+  {
+    "name": "Dairy & breakfast",
+    "image": "https://cdn-icons-png.flaticon.com/512/2371/2371873.png",
+    "__v": 0
+  },
+  {
+    "name": "Cold Drinks",
+    "image": "https://cdn-icons-png.flaticon.com/512/2405/2405479.png",
+
+    "__v": 0
+  },
+  {
+    "name": "Snacks",
+    "image": "https://cdn-icons-png.flaticon.com/512/859/859293.png",
+    "__v": 0
+  },
+  {
+    "name": "Fish & meat",
+    "image": "https://cdn-icons-png.flaticon.com/512/4507/4507453.png",
+    "__v": 0
+  },
+  {
+    "name": "Personal Care",
+    "image": "https://cdn-icons-png.flaticon.com/512/3163/3163203.png",
+    "__v": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "image": "https://cdn-icons.flaticon.com/png/512/1791/premium/1791312.png?token=exp=1638680692~hmac=909dafa263422596433c7db7799a86b8",
+    "brand": "Fruits & vegetables",
+    "price": 12.5,
+    "rating": 1,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Oranges",
+    "description": "High in Vitamins",
+    "category": "61acb20afe7f9b3c3723bc8e",
+    "countInStock": 25,
+    "__v": 0
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/305/305385.png",
+    "brand": "choco choco",
+    "price": 10,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Potato Chips",
+    "description": "High in Potatoes",
+    "category": "61acb20afe7f9b3c3723bc91",
+    "countInStock": 10,
+    "__v": 0
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3500/3500270.png",
+    "brand": "Fresh Mam",
+    "price": 20,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Dairy",
+    "description": "Good for your littot Kid",
+    "category": "61acb20afe7f9b3c3723bc8f",
+    "countInStock": 10,
+    "__v": 0
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/924/924514.png",
+    "brand": "Beans",
+    "price": 490.9,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Beans Coffee",
+    "description": "Good For students",
+    "category": "61acb20afe7f9b3c3723bc90",
+    "countInStock": 5,
+    "__v": 0
+  },
+  {
+    "image": "https://cdn-icons.flaticon.com/png/512/2045/premium/2045881.png?token=exp=1638681573~hmac=6e5b069bdeab48ba4452cb564d683db0",
+    "brand": "Dr Shine",
+    "price": 1000,
+    "rating": 5,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Dr Shine Suncschreen",
+    "description": "Your skin my skin shines with sunskin",
+    "category": "61acb20afe7f9b3c3723bc93",
+    "countInStock": 2,
+    "__v": 0
+  }
+]
